@@ -38,8 +38,8 @@
     --box-shadow-1: 0 3px 15px rgba(0,0,0,.3);
 }
 .light-mode{
-    --color-primary: #FFFFFF;
-    --color-secondary: #40DFEF;
+    --color-primary: #A1E3D8;
+    --color-secondary: #FF6363;
     --color-white: #454e56;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -47,7 +47,7 @@
     --color-grey-2: #6c7983;
     --color-grey-3: #6c7983;
     --color-grey-4: #454e56;
-    --color-grey-5: #f8f8f8;
+    --color-grey-5: #B4E197;
     --color-grey-6: #12181b;
 }
 body{
