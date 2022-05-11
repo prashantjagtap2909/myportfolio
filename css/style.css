@@ -437,23 +437,26 @@ section{
     transition: all .4s ease-in-out;
     width: 60%;
 }
-.prog-con .progress .html{
-    width: 90%;
+.prog-con .progress .python{
+    width: 60%;
 }
-.prog-con .progress .css{
+.prog-con .progress .c{
     width: 85%;
 }
-.prog-con .progress .js{
-    width: 70%;
-}
-.prog-con .progress .react{
+.prog-con .progress .java{
     width: 50%;
 }
-.prog-con .progress .jq{
-    width: 80%;
+.prog-con .progress .html{
+    width: 50%;
 }
-.prog-con .progress .res{
-    width: 90%;
+.prog-con .progress .css{
+    width: 50%;
+}
+.prog-con .progress .bootstrap{
+    width: 30%;
+}
+.prog-con .progress .it{
+    width: 80%;
 }
 
 /* timeline */
